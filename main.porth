@@ -1,4 +1,4 @@
-#problem: calculate formula: a * b + c / 2, for values: a = 100, b = 50, c = 25, assert result = 5012.5
+#problem: calculate formula: a * b + c / 2, for values: a = 100, b = 50, c = 26, assert result = 5013
 push 100
 push 50
 mul
